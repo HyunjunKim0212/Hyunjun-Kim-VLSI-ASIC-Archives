@@ -2,10 +2,36 @@
 Archive of school projects that are related to the VLSI and ASIC
 
 ## VLSI Design Course
-In this course, I learned the arithmetic design using verilog.
+This course covers the fundamental and advanced concepts of high-speed arithmetic logic unit (ALU) structures and Very Large Scale Integration (VLSI) design. It focuses on the analysis, design, and optimization of CMOS logic, memory architectures, and the foundational elements of FPGA technology.
+
+### What I learned
+*   **Advanced Arithmetic Logic Design**
+    *   Learned how to analyze and implement high-speed arithmetic architectures, including **high-speed adders**, **multipliers**, and **dividers**.
+    *   Explored the structural layout of Floating-Point Units (FPUs) and the underlying hardware concepts of GPUs.
+*   **VLSI & CMOS Optimization**
+    *   Gained experience in analyzing CMOS logic circuits across multiple dimensions, including AC/DC characteristics, power/energy consumption, and leakage current.
+    *   Studied advanced design methodologies such as `dynamic`, `domino`, and `ratio-ed logic`.
+    *   Utilized **Logical Efforts** to optimize path delays and analyze flip-flop circuits.
+*   **Memory & FPGA Architectures**
+    *   Developed a solid understanding of high-performance memory array structures.
+    *   Studied the internal hardware architectures of FPGAs, learning how programmable logic blocks are configured and routed.
 
 ## ASIC Design Course
-In this course,
+This course focuses on the comprehensive process of designing, analyzing, and testing complex Application-Specific Integrated Circuits (ASICs) and digital VLSI systems. It covers the entire design flow from high-level Hardware Description Languages (HDLs) and logic synthesis to full-custom physical design and automated placement and routing.
+
+### What I learned
+*   **ASIC & Physical Design Flow**
+    *   Studied the fundamentals of **ASIC design flows** and integrated digital systems.
+    *   Gained hands-on experience in **Physical Design**, spanning from `full-custom` layouts to automated implementations, including **automatic placement, routing, and clock-tree synthesis**.
+    *   Learned layout validation techniques, including library characterization, performance estimation, and verification checks like `DRC / LVS / PEX`.
+*   **CMOS Logic & Timing Analysis**
+    *   Analyzed **static CMOS logic gates** and transistors, focusing heavily on electrical characteristics such as delay, DC response, and power consumption.
+    *   Mastered **Static Timing Analysis (STA)** to evaluate and guarantee circuit performance and timing margins.
+    *   Explored the design, delay, and power analysis of sequential elements like **Flip-flops**.
+*   **Memory, Synthesis & Verification**
+    *   Studied the architecture and electrical design of **Static Random-Access Memory (SRAM)** arrays.
+    *   Utilized Hardware Description Languages (HDLs) for **logic synthesis** to transform RTL descriptions into gate-level netlists.
+    *   Learned chip testing methodologies, design verification, and **formal verification** to ensure hardware reliability.
 
 ## Project Overview
 | Time | Course | Project Title | Program or Language |

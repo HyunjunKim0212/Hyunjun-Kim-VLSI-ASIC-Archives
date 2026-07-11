@@ -41,4 +41,4 @@ This course focuses on the comprehensive process of designing, analyzing, and te
 | Fall2025 | EE 466 | EE466_10bit_KSA | Verilog | Designed 10-bit Kogge-Stone Adder using verilog. |
 | Fall2025 | EE 466 | EE466_27bit_CLA | Verilog | Designed 27-bit carry-lookahead adder (CLA) using verilog. |
 | Fall2025 | EE 466 | EE466 Project submition | Hspice | Designed and analyze how three different types of flip-flops (ipDCO, HLFF, semi-dynamic DFF) work, timing constraints, power consumption, and area. |
-
+| Spring2026 | EE 434 | Title | Innovus | d |

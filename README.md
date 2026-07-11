@@ -36,9 +36,9 @@ This course focuses on the comprehensive process of designing, analyzing, and te
 ## Project Overview
 | Time | Course | Project Title | Program or Language | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| Fall2025 | EE 466 | EE466_Lab1_Synthesis_Results | Design Complier (DC) | Synthesized 4-bit, 8-bit, 16-bit, and 32-bit multiplier verilog file using Design Complier. Then analyzed each multiplier's timing constraints. |
+| Fall2025 | EE 466 | EE466_Lab1_Synthesis_Result | Design Complier (DC) | Synthesized 4-bit, 8-bit, 16-bit, and 32-bit multiplier verilog file using Design Complier. Then analyzed each multiplier's timing constraints. |
 | Fall2025 | EE 466 | EE466_Lab1_Synthesis_Results | Innovus | Place and Route 64-bit Brent-Kung Adder (BKA), Han-Carlson Adder (HCA), and Kogge-Stone Adder (KSA) using Innovus |
 | Fall2025 | EE 466 | EE466_10bit_KSA | Verilog | Designed 10-bit Kogge-Stone Adder using verilog |
 | Fall2025 | EE 466 | EE466_27bit_CLA | Verilog | Designed 27-bit carry-lookahead adder (CLA) |
-| Fall2025 | EE 466 | EE466_Project | Verilog | |
+| Fall2025 | EE 466 | EE466 Project submition | Verilog | |
 

@@ -9,3 +9,5 @@ In this course,
 
 ## Project Overview
 | Time | Course | Project Title | Program or Language |
+| :--- | :--- | :--- | :--- |
+| SP2025 | EE 466 | title | Verilog |
